@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Omar Jimenez-Diaz # author name
   bio: >- # tell to the world
-    NCSU Computer Science undergraduate pursuing to become a network secuirty engineer <a href="https://github.com/omarjdz" target="_blank" rel="noopener">@github</a>.
+    NCSU Computer Science undergraduate pursuing to become a network secuirty engineer
   username: username # general username
   github: omarjdz # github username
   #twitter: twitter_username # twitter username
