@@ -2,12 +2,14 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from foolishness, connecting me with another good person, giving some advice when I'm at a bad things, pulling me from ordinary to be great.
+excerpt: 
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from foolishness, connecting me with another good person, giving some advice when I'm at a bad things, pulling me from ordinary to be great.
+Thank you to the people I have met in my life, they have truly formed who I am as a person and I am forever grateful. I hope the things and events I do in the future help push the next generation to never keep pursing their goals/dreams.
+
+Also thanks to the wonderful people who have created this jekyll theme for me to use. [Check them out](https://github.com/piharpi/jekyll-klise) 
 
 <hr>
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, omar.
+No dream is ever too big to give up on, omar.
